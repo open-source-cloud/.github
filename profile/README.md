@@ -18,15 +18,7 @@ Our mission is to develop high-quality, open-source cloud services for companies
 
 ## Technology
 
-Our primary development language is Go (Golang), chosen for its performance, simplicity, and excellent support for concurrent systems. We also welcome contributions in:
-
-- C
-- C++
-- Rust
-
-(Javascript sucks >:))
-
-These languages are particularly valuable for performance-critical components.
+Our primary development language is Go (Golang), chosen for its performance, simplicity, and excellent support for concurrent systems.
 
 ## Projects
 
