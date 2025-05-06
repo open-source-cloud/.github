@@ -38,7 +38,9 @@ All projects under this organization are open-source and typically use permissiv
 
 ## Contact
 
-- GitHub: [https://github.com/open-source-cloud](https://github.com/open-source-cloud)
+- Email: contact@opensourcecloud.io
+- Email: gustavo.bertoi@uranus.com.br
+- Linkedin: (check below)
 
 ## Authors
 
