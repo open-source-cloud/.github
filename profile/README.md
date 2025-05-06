@@ -43,3 +43,4 @@ All projects under this organization are open-source and typically use permissiv
 ## Authors
 
 - Gustavo Bertoi [Linkedin](https://www.linkedin.com/in/gustavobertoi/)
+- Daniel Alves [Linkedin](https://www.linkedin.com/in/vertexportus/)
